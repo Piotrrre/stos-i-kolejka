@@ -1,0 +1,5 @@
+# ninja log v5
+1	188	7400929971540369	CMakeFiles/stos_i_kolejka.dir/Queue.cpp.obj	c231076fc6dcb54c
+15	159	7404381819550995	CMakeFiles/stos_i_kolejka.dir/Queue.cpp.obj	c231076fc6dcb54c
+1	286	7404381820812508	CMakeFiles/stos_i_kolejka.dir/main.cpp.obj	806c2247e85ea095
+287	577	7404381823632930	stos_i_kolejka.exe	c25f3b86452f672a

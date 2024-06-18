@@ -1,0 +1,3 @@
+C:/Users/ppiot/CLionProjects/stos i kolejka/cmake-build-debug/CMakeFiles/stos_i_kolejka.dir
+C:/Users/ppiot/CLionProjects/stos i kolejka/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ppiot/CLionProjects/stos i kolejka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
